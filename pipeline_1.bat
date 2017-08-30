@@ -1,0 +1,1 @@
+D:\apache-jmeter-3.1\apache-jmeter-3.1\bin\jmeter.bat -Jjmeter.save.saveservice.output_format=xml -n -t D:\Jmeter_scripts\EB\EB.jmx -l Test.jtl
